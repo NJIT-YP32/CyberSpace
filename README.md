@@ -37,3 +37,14 @@ Internet: **THE NETWORK OF NETWORKS.** Its mass connection of computers networks
 
 ### 5. Hero Text
 **A Gift from Internet Titans for Humankind**
+
+## 3. Website Main Menu
+
+|**Website Main Menu**       |
+| -------------------------- |
+|Internet                    |
+|History of the Network      |
+|History of the Browser      |
+|History of the Search Engine|
+|Current World               |
+|About us                    |
