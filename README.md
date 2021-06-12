@@ -73,7 +73,7 @@ A Gift from Internet Titans for Humankind
 * Z-layout
 
 #### 6. Page Content:
-[About Internet](https://github.com/Milan-36/CyberSpace/blob/abef746e3dcc8f794a5259648a95733add1c4934/InternetPage1.md)
+[About Internet](https://github.com/Milan-36/CyberSpace/blob/main/InternetPage1.md)
 
 
 
