@@ -36,7 +36,7 @@ Internet: **THE NETWORK OF NETWORKS.** Its mass connection of computers networks
 **Evolution of CyberSpace**
 
 #### 5. Hero Text
-**A Gift from Internet Titans for Humankind**
+A Gift from Internet Titans for Humankind
 
 ## 3. Website Main Menu
 
