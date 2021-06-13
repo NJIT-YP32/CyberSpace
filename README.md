@@ -76,6 +76,46 @@ A Gift from Internet Titans for Humankind
 [About Internet](https://github.com/Milan-36/CyberSpace/blob/main/InternetPage1.md)
 
 
+## 5. Network (Page 2)
+
+#### 1. Menu Link : 
+
+#### 2. Page Title : History of the Network
+
+#### 3. Description : 
+
+*	The history of modern computer and device networking goes back to 1969, when ARPANET (Advanced Research Projects Agency Network) became the first connected computer network. It implemented the TCP/IP protocol suite, which later became the Internet.
+*	ARPANET revolutionized communications by using **packet-switching** instead of direct connections.
+*	The legendary app **EMAIL**, Raymond Tomlinson was actually working on a email program for a single computer so that one could send messages from oneself to another user.
+* At CERN, the European Physical Laboratory, **Tim Berners-Lee** creates the World Wide Web.
+
+
+#### 4. Keywords :
+* Packet-switching
+* IMP
+* EMAIL (**@**)
+* resource-sharing
+* TCP/IP
+* WWW
+
+
+#### 5. Page Layout : 
+* Z-layout
+
+#### 6. Page Content:
+[About Network]()
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
