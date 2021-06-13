@@ -1,4 +1,4 @@
-# History of Network Technology
+# The History of Network Technology
 * Computer networking is one of the best breakthroughs of our age. Before the Internet took over our daily lives, engineers and scientists worked to connect computers to each other.The work they did established our current state of networking.
 * While America gave a birth to space technology, The MIT graduate student named **Leonard Kleinrock** also known as “Father of the Internet” began applying queueing theory to data transmission. Queueing theory is a fantastic tool for evaluating computer and communication systems. Queue is a quite simple structure; it is simply a system to which you arrive hang around a while and leave like letters going through post offices.
 * Kleinrock showed how packages of data would queue or line up at the nodes of communication network as they transit.
