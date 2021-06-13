@@ -1,7 +1,8 @@
+# The History of Web Browsers
 <img src="https://github.com/NJIT-YP32/CyberSpace/blob/main/src/images/the_history_of_web_browsers.jpg" width="300" height="300">
 
 
-* It’s been 30 years since the World Wide Web was invented by Tim Berners-Lee. 
+* It’s been 30 years since the World Wide Web was invented by *Tim Berners-Lee*. 
 * In March of 1989 he introduced a document called “Information Management: A Proposal”, which would eventually become the Internet.
 * The London based computer scientist also wrote the three essential technologies that are still largely considered the foundation of the modern-day internet: **HyperText Markup Language (HTML), Uniform Resource Identifier (UFI), and Hypertext Transfer Protocol (HTTP)**. 
 
@@ -34,4 +35,4 @@ The browser war, primarily between the two major players *Microsoft* and *Netsca
 * *September 1997* the browser war was over **Microsoft** had emerged triumphant. **Netscape** was really its business on the ropes after launching of **Internet Explorer 4** by *Bill Gates*.
 
 
-<img src="https://github.com/NJIT-YP32/CyberSpace/blob/main/src/images/Timeline%20of%20web%20browser.png" width="600" height="300">
+<img src="https://github.com/NJIT-YP32/CyberSpace/blob/main/src/images/Timeline%20of%20web%20browser.png">
