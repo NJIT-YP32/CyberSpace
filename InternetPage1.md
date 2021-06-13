@@ -7,6 +7,8 @@
 *	Computer scientists Vinton Cerf and Bob Kahn are credited with inventing the Internet communication in 1960’s.
 *	This is the age of Internet, or we can say a global network of communication that turn 21st century people around the world to exchange messages, finding information free and even tyranny computer communication can also be a tool of war to manage material and manpower.
 
+![alt-text](https://github.com/Milan-36/CyberSpace/blob/main/src/images/InternetHistory_Timeline.png "Internet Time-Line")
+
 
 ## Advantages & Disadvantages of the Internet
 
