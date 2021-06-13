@@ -79,7 +79,7 @@ A Gift from Internet Titans for Humankind
 
 #### 1. Menu Link : 
 
-#### 2. Page Title : Browser
+#### 2. Page Title : History of Browser
 
 #### 3. Description : 
 
@@ -94,7 +94,9 @@ A Gift from Internet Titans for Humankind
 * Internet
 * Web Browser
 * Web Pages
+* Browser War
 * Mosaic
+* Nescape Navigator
 * Internet Explorer
 * Microsoft Windows
 
