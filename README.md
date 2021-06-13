@@ -75,6 +75,35 @@ A Gift from Internet Titans for Humankind
 #### 6. Page Content:
 [About Internet](https://github.com/Milan-36/CyberSpace/blob/main/InternetPage1.md)
 
+## 6. Browser (Page 3)
+
+#### 1. Menu Link : 
+
+#### 2. Page Title : Browser
+
+#### 3. Description : 
+
+* A **Web Browser** is a software application for retrieving, presenting and traversing information resources on the World Wide Web. 
+* It further provides for the capture or input of information which may be returned to the presenting system, then stored or processed as necessary.
+* The method of accessing a particular page or content is achieved by entering its address, known as a **Uniform Resource Identifier or URI**. 
+* This may be a web page, image, video, or other piece of content.
+* **Hyperlinks** present in resources enable users easily to navigate their browsers to related resources. 
+* A web browser can also be defined as an application software or program designed to enable users to access, retrieve and view documents and other resources on the Internet.
+
+#### 4. Keywords :
+* Internet
+* Web Browser
+* Web Pages
+* Mosaic
+* Internet Explorer
+* Microsoft Windows
+
+#### 5. Page Layout : 
+* Z-layout
+
+#### 6. Page Content:
+[About Browser](https://github.com/NJIT-YP32/CyberSpace/blob/main/BrowserPage3.md)
+
 
 
 
