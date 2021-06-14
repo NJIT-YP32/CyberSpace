@@ -40,14 +40,14 @@ A Gift from Internet Titans for Humankind
 
 ## 3. Website Main Menu
 
-|**Website Main Menu**       |
-| -------------------------- |
-|Internet                    |
-|History of the Network      |
-|History of the Browser      |
-|History of the Search Engine|
-|Current World               |
-|About us                    |
+|**Website Main Menu**           |
+| ------------------------------ |
+|Internet                        |
+|The History of the Network      |
+|The History of the Browser      |
+|The History of the Search Engine|
+|E-commerce                      |
+|About us                        |
 
 ## 4. Internet (Page 1)
 
@@ -79,7 +79,7 @@ A Gift from Internet Titans for Humankind
 
 #### 1. Menu Link : 
 
-#### 2. Page Title : History of the Network
+#### 2. Page Title : The History of the Network
 
 #### 3. Description : 
 
@@ -107,7 +107,7 @@ A Gift from Internet Titans for Humankind
 
 #### 1. Menu Link : 
 
-#### 2. Page Title : History of Browser
+#### 2. Page Title : The History of Browser
 
 #### 3. Description : 
 
@@ -138,7 +138,7 @@ A Gift from Internet Titans for Humankind
 
 #### 1. Menu Link : 
 
-#### 2. Page Title : History of Search Engine
+#### 2. Page Title : The History of Search Engine
 
 #### 3. Description : 
 
@@ -153,11 +153,35 @@ A Gift from Internet Titans for Humankind
 * Yahoo
 * Excite
 * Google
-* Keywords
-
+* MSN
+* Advertisement
 
 #### 5. Page Layout : 
 * Z-layout
 
 #### 6. Page Content:
 [About Search Engine](https://github.com/NJIT-YP32/CyberSpace/blob/main/SearchEnginePage4.md)
+
+## 8. E-commerce (Page 5)
+
+#### 1. Menu Link : 
+
+#### 2. Page Title : E-commerce
+
+#### 3. Description : 
+
+* **Electronic commerce**, or **E-Commerce**, refers to buying and selling products and services on the Internet.
+* Commerce is conducted in electronic marketplaces (or marketspaces) and in the supply chains working on the Internet-Web.
+* Consumer-oriented marketplaces include large e-malls (such as **Amazon**), consumer-to-consumer auction platforms (such as **eBay**), multichannel retailers (such as L.L. Bean), and many millions of e-retailers.
+* Ever since the Industrial Revolution corporation’s dough has been based on the power of high-flying executives sitting in their gilded offices way up there but the consumer almost as an afterthought and now Amazon and eBay are creating a whole new model of commerce one based on taking the internet and harnessing the power of the great mass of individuals down here at street level.
+
+#### 4. Keywords :
+* E-Commerce
+* Amazon
+* eBay
+
+#### 5. Page Layout : 
+* Z-layout
+
+#### 6. Page Content:
+[About E-commerce](https://github.com/Milan-36/CyberSpace/blob/main/E-CommercePage5.md)
