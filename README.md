@@ -133,3 +133,31 @@ A Gift from Internet Titans for Humankind
 
 #### 6. Page Content:
 [About Browser](https://github.com/NJIT-YP32/CyberSpace/blob/main/BrowserPage3.md)
+
+## 7. Search Engine (Page 4)
+
+#### 1. Menu Link : 
+
+#### 2. Page Title : History of Search Engine
+
+#### 3. Description : 
+
+* The web today you type anything into a **Search Engine** and boom and a third of a second you can find out instantly result and there are over 150 million websites and billions of web pages out there the technology that makes super accurate search possible is kind of a miracle.
+* A **web search engine or Internet search engine** is a software system that is designed to carry out web searches (Internet searches), which means to search the World Wide Web in a systematic way for particular information specified in a textual web search query. 
+* Internet content that is not capable of being searched by a web search engine is generally described as the deep web.
+* It is hard to believe Google search is 22 years old now. In the history of search engines, we have to admire the ever-changing Google’s search algorithm that continues to meet the increasing demands of searchers around the world.
+
+#### 4. Keywords :
+* Internet
+* Web Browser
+* Yahoo
+* Excite
+* Google
+* Keywords
+
+
+#### 5. Page Layout : 
+* Z-layout
+
+#### 6. Page Content:
+[About Search Engine](https://github.com/NJIT-YP32/CyberSpace/blob/main/SearchEnginePage4.md)
