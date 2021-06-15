@@ -47,7 +47,7 @@ A Gift from Internet Titans for Humankind
 |The History of the Browser      |
 |The History of the Search Engine|
 |E-commerce                      |
-|About us                        |
+|About Page                      |
 
 ## 4. Internet (Page 1)
 
@@ -186,3 +186,7 @@ A Gift from Internet Titans for Humankind
 
 #### 6. Page Content:
 [About E-commerce](https://github.com/Milan-36/CyberSpace/blob/main/E-CommercePage5.md)
+
+## 9. About Page
+
+[About Page](https://github.com/NJIT-YP32/CyberSpace/blob/main/AboutPage.md)
