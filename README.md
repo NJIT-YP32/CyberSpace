@@ -2,7 +2,12 @@
 **IS 601** - Summer 2021
 ## 1. General Info
 
-**Name:** Milankumar Patel, And Yash Patel.
+**Name:** 
+
+Milankumar Patel - [GitHub](https://github.com/Milan-36)
+
+Yash Patel - [GitHub](https://github.com/Yash-2903)
+
 #### Concept:
 The concept of the website is to better understand of the Internet.
 * Where did the word **“Internet”** come from?
@@ -191,7 +196,7 @@ A Gift from Internet Titans for Humankind
 
 [About Page](https://github.com/NJIT-YP32/CyberSpace/blob/main/AboutPage.md)
 
-## WebSite Footer Menu
+## 10. WebSite Footer Menu
 
 | **WebSite Footer Menu** |
 | ----------------------- |
