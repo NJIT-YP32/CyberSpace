@@ -190,3 +190,12 @@ A Gift from Internet Titans for Humankind
 ## 9. About Page
 
 [About Page](https://github.com/NJIT-YP32/CyberSpace/blob/main/AboutPage.md)
+
+## WebSite Footer Menu
+
+| **WebSite Footer Menu** |
+| ----------------------- |
+| Logo                    |
+| Contact Us              |
+| About Page              |
+| Quote or tweet          |
